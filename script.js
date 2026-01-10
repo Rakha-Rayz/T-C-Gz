@@ -18,5 +18,5 @@ const copyright_div = document.getElementById("copyright")
 const tngl = new Date();
 const tahun = tngl.getFullYear();
 
-const teks = `&copy; ${tahun} www.rakha-rayz.github.io/T-C-Gz - All Right Reserved.`;
+const teks = `© ${tahun} www.rakha-rayz.github.io/T-C-Gz - All Right Reserved.`;
 copyright_div.textContent = teks;
