@@ -1,7 +1,7 @@
 <h1 align="center">💻 T&C Gz</h1>
 
 <p align="center">
-    <img src="public/icon.png" alt="T&C Gz Logo" width="140">
+    <img src="https://rakha-rayz.github.io/T-C-Gz/favicon.ico" alt="T&C Gz Logo" width="140">
 </p>
 
 <p align="center">
